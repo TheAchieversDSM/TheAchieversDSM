@@ -1,4 +1,4 @@
-## Bem vindos! ✨
+# Bem vindos! ✨
 
 ### :dart: Objetivo:
 #### Perfil criado para publicarmos nossos projetos desenvolvidos durante nossa trajetória no curso de Desenvolvimento de Software Multiplaforma na FATEC - Prof. Jessen Vidal. 
